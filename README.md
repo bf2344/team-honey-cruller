@@ -130,6 +130,13 @@ Our Dashboard offers a variety of different things, such as Past Winners, Recent
   <br/>
 
   By Clicking on the `More Info` button, this leads you to that specific contests page.
+  
+  
+  ### Previous Winners
+  <img width="1654" alt="Screen Shot 2021-08-24 at 10 42 36 AM" src="https://user-images.githubusercontent.com/47767964/130637517-20634564-0d4e-4466-9dde-d35eaad1dcf4.png">
+
+on our Dashboard page, you can view past winners and see some old designs that have won a previous contest. 
+
 
   <a href="">
     <img src="./client/src/Images/submitDesign.png" alt="Logo">
@@ -137,6 +144,11 @@ Our Dashboard offers a variety of different things, such as Past Winners, Recent
   <br/>
 
   If you click the `Submit Design` button on the Single Contest page, this will lead you to a place to submit a file with your design.
+  
+  ### Messaging 
+  <img width="1654" alt="Screen Shot 2021-08-24 at 10 44 38 AM" src="https://user-images.githubusercontent.com/47767964/130637854-bf5548b1-9b80-4225-8868-5ada4c7851a3.png">
+  
+  Feel free to message other users letting them know about your contest or discuss with designers working on your contest. 
 
  <a href="">
     <img src="./client/src/Images/Profile.png" alt="Logo">
